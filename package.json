@@ -1,0 +1,17 @@
+{
+  "name": "simple-csv-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "NAKAMURA Masayuki",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "keyql": "^0.2.3",
+    "lodash": "^4.17.20",
+    "papaparse": "^5.3.0"
+  }
+}
